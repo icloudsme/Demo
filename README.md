@@ -1,4 +1,5 @@
 # Demo
+|build-status| |docs|
 Selenium automation test framework
 
 Use Selenium + testng + Ant + Jenkins
